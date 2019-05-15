@@ -1,5 +1,13 @@
 # Homework 3-4: Coding style and Unit tests.
 
+##### Grade: 
+
+-2: test_dataframe.py - you have good test coverage here, but eveyrthing is in one function. In general, unit tests should be small functions that checks one (very) specific case of another function. Consider breaking run_unit_tests() up into multiple smaller unit tests.    
+
+
+
+-----
+
 **Note: This homework has a total of 14 points.**
 
 In this homework, you will create two python modules and put them in PEP8 style.
